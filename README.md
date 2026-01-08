@@ -48,7 +48,10 @@ It covers data preprocessing and exploratory data analysis (EDA) in Python, foll
 
 ---
 
-## 📁 Repository Structure
+[View Python EDA Notebook](notebook/netflix_eda_preprocessing.ipynb)
+[Cleaned Dataset](data/netflix_cleaned.csv)
+[Power BI Dashboard (.pbix)](powerbi/Netflix_Dashboard.pbix)
+
 
 ---
 
